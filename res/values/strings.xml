@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Not Quite Pacman</string>
+    <string name="app_name">Not Quite Pacman</string>
+    <string name="btnNew">New Game</string>
+    <string name="btnQuit">Quit Game</string>
+    <string name="gameOverTitle">Game Over</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="player">#FFFF00</color>
+    <color name="ghost">#FF0000</color>
+    <color name="closed">#0000FF</color>
+    <color name="open">#000000</color>
+    <color name="crump">#FFFF00</color>
+    
+</resources>
