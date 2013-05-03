@@ -1,7 +1,6 @@
 --- Not Quite Pacman README ---
 Authors:
 Cameron DaCamara
-Dominic
 
 Description:
 Not Quite Pacman is a simple Pacman based game for Android it emulates the player (Pacman) and 
@@ -16,6 +15,3 @@ down when the player is directly above or to the side of the ghost.
 Cameron DaCamara contributions:
 Board.java, Entity.java, GameCanvas.java, GameState.java, NotQuitePacmanActivity.java,
 Player.java, Tile.java and any assets for the game like the manifest and @string or @color
-
-Dominic contributions:
-Blinky.java + ideas for the game
